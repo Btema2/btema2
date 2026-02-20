@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Статичний текст з імітацією терміналу (Зелений, гладкий шрифт JetBrains Mono, з курсором) -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&color=2EA043&center=true&vCenter=true&width=600&lines=Hello,+I'm+Artem_&pause=100000" alt="Hello, I'm Artem_" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&color=2EA043&center=true&vCenter=true&width=600&lines=Hello,+Artem+there_&pause=100000" alt="Hello, I'm Artem_" />
 
   <p align="center">
     <strong>Automation | DevOps | Open Source</strong>
