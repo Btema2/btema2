@@ -80,6 +80,6 @@ I believe in elegant solutions to complex problems. I leverage AI to prototype f
 ### Languages
 
 *   🇺🇦 **Ukrainian:** Native
-*   🇵🇱 **Polish:** Fluent (C2)
+*   🇵🇱 **Polish:** Fluent (B2/C1)
 *   🇬🇧 **English:** Advanced (B2/C1)
-*   **Other:** Russian (C1) • German (A1/A2)
+*   🇩🇪 **German:** Beginner (A1/A2)
